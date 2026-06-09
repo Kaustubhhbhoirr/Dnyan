@@ -75,42 +75,6 @@ This is how Gen Z actually shares what moves them.
 
 See your entire learning journey as a contribution graph. Every day you read — a square fills. Watch your spiritual consistency become something visual, something real.
 
----
-
-## Features
-
-### Phase 1 — Core Reader (MVP)
-- [ ] Display all 18 chapters
-- [ ] All 700 shlokas with Sanskrit + transliteration + meaning
-- [ ] Multi-perspective commentaries per shloka
-- [ ] Bookmarks
-- [ ] Offline reading (PWA)
-- [ ] Search by chapter or keyword
-
-### Phase 2 — Progress Tracking
-- [ ] Daily reading goals
-- [ ] GitHub-style activity calendar
-- [ ] Streak system
-- [ ] Reading statistics dashboard
-
-### Phase 3 — Gamification
-- [ ] XP system
-- [ ] Achievement badges
-- [ ] Chapter completion rewards
-- [ ] Daily challenges
-
-### Phase 4 — Sharing
-- [ ] Shloka postcard generator
-- [ ] Custom aesthetic cards (mandala-inspired)
-- [ ] Share to Instagram / WhatsApp
-
-### Phase 5 — Community
-- [ ] User reflections feed (Pinterest-style)
-- [ ] Shared shloka cards
-- [ ] Community insights
-
----
-
 ## Tech Stack
 
 | Layer | Tool |
