@@ -13,6 +13,9 @@
 
 </div>
 
+> [!WARNING]
+> **🚧 Work In Progress**: Dnyan is currently in the early stages of active development. The codebase is actively being scaffolded and is not yet functional or ready for downloads, production use, or feature contributions. Watch the repo to stay tuned!
+
 ---
 
 ## The Problem
